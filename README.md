@@ -1,6 +1,10 @@
 # Getting Started with DwellDuo
 
 ![My Image](src/assets/Screenshot%202024-03-20%20at%2010.20.43 PM.png)
+![My Image](src/assets/Screenshot%202024-03-20%20at%2010.20.50 PM.png)
+![My Image](src/assets/Screenshot%202024-03-20%20at%2010.21.01 PM.png)
+![My Image](src/assets/Screenshot%202024-03-20%20at%2010.21.13 PM.png)
+![My Image](src/assets/Screenshot%202024-03-20%20at%2010.21.23 PM.png)
 
 Welcome to DwellDuo! To get this project up and running in your local environment, follow the simple steps outlined below. These instructions assume you have a basic understanding of terminal or command line usage.
 
