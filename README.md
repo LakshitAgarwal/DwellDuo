@@ -1,5 +1,6 @@
 #Getting Started with DwellDuo
-Welcome to DwellDuo! To get this project up and running on your local environment, follow the simple steps outlined below. These instructions assume you have a basic understanding of terminal or command line usage.
+
+Welcome to DwellDuo! To get this project up and running in your local environment, follow the simple steps outlined below. These instructions assume you have a basic understanding of terminal or command line usage.
 
 Prerequisites
 Before you begin, ensure you have Node.js and npm (Node Package Manager) installed on your system. If you're unsure whether you have them or need to install them, you can find the instructions on the official Node.js website.
@@ -15,7 +16,7 @@ This command reads the package.json file in your project directory and installs 
 
 Starting the Application
 
-After all the dependencies have been successfully installed, you're ready to start the application. Still in the root directory of your project, run the following command:
+After all the dependencies have been successfully installed, you're ready to start the application. Still, in the root directory of your project, run the following command:
 
 npm start
 
