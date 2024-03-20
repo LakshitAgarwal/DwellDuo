@@ -10,7 +10,7 @@ Install Dependencies
 
 Open your terminal or command prompt and navigate to the root directory of the DwellDuo project. Once there, execute the following command to install the necessary dependencies:
 
-npm install
+`npm install`
 
 This command reads the package.json file in your project directory and installs all the dependencies listed there. It might take a few minutes to complete, depending on your internet connection speed.
 
@@ -18,7 +18,7 @@ Starting the Application
 
 After all the dependencies have been successfully installed, you're ready to start the application. Still, in the root directory of your project, run the following command:
 
-npm start
+`npm start`
 
 This command starts the development server and opens the application in your default web browser. If it doesn't automatically open, you can manually access it by visiting http://localhost:3000 in your browser.
 
