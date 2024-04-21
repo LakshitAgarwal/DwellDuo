@@ -2,7 +2,7 @@
 
 Welcome to DwellDuo, where finding the perfect roommate is as easy as a breeze! Say goodbye to the stress and uncertainty of roommate hunting and embrace a seamless, personalized matchmaking experience tailored to your lifestyle and preferences.
 
-/vis/WhatsApp Image 2024-04-21 at 21.24.11.jpeg
+!(/vis/WhatsApp Image 2024-04-21 at 21.24.11.jpeg)
 
 ## Features
 
