@@ -2,7 +2,7 @@
 
 Welcome to DwellDuo, where finding the perfect roommate is as easy as a breeze! Say goodbye to the stress and uncertainty of roommate hunting and embrace a seamless, personalized matchmaking experience tailored to your lifestyle and preferences.
 
-![Welcome Image](/vis/WhatsApp%20Image%202024-04-21%20at%2021.24.11.jpeg)
+![Welcome Image](/vis/a.jpeg)
 
 ## Features
 
@@ -15,10 +15,16 @@ Welcome to DwellDuo, where finding the perfect roommate is as easy as a breeze! 
 To get started with DwellDuo, simply follow these steps:
 
 1. **Sign Up:** Create your account on DwellDuo to begin your roommate search journey.
+
+![Registration](/vis/b.jpeg)
+![Login](/vis/c.jpeg)
+
 2. **Fill in Preferences:** Input your preferences, habits, and interests to personalize your roommate matches.
 3. **Discover Matches:** Explore personalized roommate matches tailored to your criteria.
 4. **Connect:** Reach out to potential roommates and start building connections.
 5. **Secure Transaction:** Once you've found your ideal roommate, engage in secure transactions and agreements within our platform.
+
+![demo](/vis/d.jpeg)
 
 ## Meet the Team
 
