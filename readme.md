@@ -36,11 +36,8 @@ DwellDuo is brought to you by a passionate team dedicated to revolutionizing roo
 
 ## Special Thanks
 
-We extend our heartfelt gratitude to Dr. Umesh Gupta, SMIEEE, whose invaluable support and guidance have been instrumental in bringing DwellDuo from concept to reality.
+We extend our heartfelt gratitude to Dr. Umesh Gupta, whose invaluable support and guidance have been instrumental in bringing DwellDuo from concept to reality.
 
-## Contributing
-
-We welcome contributions from the community to enhance DwellDuo and make it even better! If you have ideas for improvement or would like to report an issue, please feel free to [open an issue](https://github.com/DwellDuo/DwellDuo/issues) or [submit a pull request](https://github.com/DwellDuo/DwellDuo/pulls).
 
 ## Stay Connected
 
