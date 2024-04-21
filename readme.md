@@ -32,7 +32,8 @@ DwellDuo is brought to you by a passionate team dedicated to revolutionizing roo
 
 - **Dhruv Chaudhary:** Lead Developer
 - **Vanshika Agarwal:** UI/UX Designer
-- **Radha Garg:** Marketing Strategist
+- **Radha Garg:** Strategist
+- **Lakshit Agarwal:** Lead Developer
 
 ## Special Thanks
 
