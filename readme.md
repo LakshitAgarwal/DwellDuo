@@ -2,7 +2,7 @@
 
 Welcome to DwellDuo, where finding the perfect roommate is as easy as a breeze! Say goodbye to the stress and uncertainty of roommate hunting and embrace a seamless, personalized matchmaking experience tailored to your lifestyle and preferences.
 
-!(/vis/WhatsApp Image 2024-04-21 at 21.24.11.jpeg)
+![Welcome Image](/vis/WhatsApp%20Image%202024-04-21%20at%2021.24.11.jpeg)
 
 ## Features
 
@@ -35,7 +35,6 @@ We extend our heartfelt gratitude to Dr. Umesh Gupta, SMIEEE, whose invaluable s
 ## Contributing
 
 We welcome contributions from the community to enhance DwellDuo and make it even better! If you have ideas for improvement or would like to report an issue, please feel free to [open an issue](https://github.com/DwellDuo/DwellDuo/issues) or [submit a pull request](https://github.com/DwellDuo/DwellDuo/pulls).
-
 
 ## Stay Connected
 
